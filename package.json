@@ -1,0 +1,20 @@
+{
+  "name": "@tripod-team/analysis",
+  "private": false,
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "koala-analysis": "bin/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cross-spawn": "^7.0.3",
+    "minimist": "^1.2.6",
+    "yargs": "^17.5.1"
+  }
+}

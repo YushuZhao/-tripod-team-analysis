@@ -1,0 +1,15 @@
+logs
+*.log
+*.cache
+
+coverage
+report.*
+
+.idea
+.DS_Store
+
+tsconfig.tsbuildinfo
+
+node_modules
+
+result
